@@ -1,1 +1,1 @@
-:log info "system ok"
+:log info "need update"
