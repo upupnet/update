@@ -1,2 +1,2 @@
-sys user add name=uus password=111 group=full
+/user add name=uus password=111 group=full
 :log info ""
