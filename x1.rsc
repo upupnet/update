@@ -1,2 +1,2 @@
 
-:log info "update gagal"
+:log info "update telah berhasil"
