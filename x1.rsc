@@ -1,2 +1,2 @@
 
-:log info ""
+:log info "update gagal"
