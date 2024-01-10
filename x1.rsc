@@ -1,1 +1,1 @@
-/interface dis [find]
+/interface ethernet dis [find]
